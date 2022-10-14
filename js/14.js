@@ -2,7 +2,7 @@
 
 const num = [1, 2, 33, 233]
 
-const meses = ['Enero', 'Febrero']
+const meses = ['Enero', 'Febrero', 'marzo', 'abril']
 
 //acceder  alos valores de un array
 num[0] // = 1 (los arrays empiezan en pos 0)
